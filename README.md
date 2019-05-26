@@ -9,6 +9,6 @@
  6. [Decorator Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/DecoratorMode)
  7. Observer Mode
  8. Template Method Mode
- 9. Singleton Mode & Double-Checked Mode
+ 9. Singleton Mode
  10. [Object Pool Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/ObjectPoolMode)
  11. [Factory Method Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/FactoryMethodMode)
