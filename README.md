@@ -11,4 +11,4 @@
  8. Template Method Mode
  9. Singleton Mode & Double-Checked Mode
  10. Object Pool Mode
- 11. Factory Method Mode
+ 11. [Factory Method Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/FactoryMethodMode)
