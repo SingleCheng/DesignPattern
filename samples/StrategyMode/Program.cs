@@ -1,4 +1,5 @@
 ﻿using System;
+using StrategyMode.Implements;
 
 namespace StrategyMode
 {
@@ -22,7 +23,6 @@ namespace StrategyMode
             }
 
             ct.Send(data);
-            Console.ReadKey();
         }
     }
 }

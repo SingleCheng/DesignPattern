@@ -1,6 +1,6 @@
 using System;
 
-namespace StrategyMode
+namespace StrategyMode.Implements
 {
     public class Serial : ICommunication
     {
