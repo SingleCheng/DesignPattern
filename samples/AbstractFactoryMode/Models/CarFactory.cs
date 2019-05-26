@@ -1,4 +1,4 @@
-namespace AbstractFactoryMode.Abstract
+namespace AbstractFactoryMode.Models
 {
     public abstract class CarFactory
     {

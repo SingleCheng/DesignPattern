@@ -1,8 +1,8 @@
 using System;
 
-namespace ObserverMode
+namespace ObserverMode.Implements
 {
-    public class SmsNotify : IObserver<CreditCard>
+    public class SmsNotify : Interfaces.IObserver<CreditCard>
     {
         public void Update(object sender, CreditCard e)
         {

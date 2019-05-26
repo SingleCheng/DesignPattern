@@ -1,4 +1,5 @@
 ﻿using System;
+using FacadeMode.Utilities;
 
 namespace FacadeMode
 {
@@ -8,10 +9,9 @@ namespace FacadeMode
         {
             Console.WriteLine("Demo Facade Mode");
 
-            var facade = new Facade();
-
-            facade.MethodA();
-            facade.MethodB();
+            var car = new CarFacade();
+            car.Run();
+            car.Brake();
         }
     }
 }

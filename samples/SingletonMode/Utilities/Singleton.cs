@@ -1,12 +1,12 @@
 using System;
 
-namespace SingletonMode
+namespace SingletonMode.Utilities
 {
     public class Singleton
     {
-        private static Singleton instance;
+        private static Singleton _instance;
         
-        private static readonly object _padlock = new object();
+        private static readonly object Padlock = new object();
 
         private Singleton()
         {
@@ -15,18 +15,18 @@ namespace SingletonMode
         
         public static Singleton Instance()
         {
-            if (instance == null)
+            if (_instance == null)
             {
-                lock (_padlock)
+                lock (Padlock)
                 {
-                    if (instance == null)
+                    if (_instance == null)
                     {
-                        instance = new Singleton();
+                        _instance = new Singleton();
                     }
                 }
             }
 
-            return instance;
+            return _instance;
         }
     }
 }

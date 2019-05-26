@@ -1,5 +1,6 @@
 ﻿using System;
 using StrategyMode.Implements;
+using StrategyMode.Models;
 
 namespace StrategyMode
 {

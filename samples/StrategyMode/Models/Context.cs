@@ -1,4 +1,6 @@
-namespace StrategyMode
+using StrategyMode.Interfaces;
+
+namespace StrategyMode.Models
 {
     public class Context
     {

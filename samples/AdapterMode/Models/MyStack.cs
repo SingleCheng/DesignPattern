@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
+using AdapterMode.Interfaces;
 
-namespace AdapterMode
+namespace AdapterMode.Models
 {
     public class MyStack<T> : IStack<T>
     {

@@ -1,6 +1,6 @@
 using BridgeMode.Interfaces;
 
-namespace BridgeMode.Model
+namespace BridgeMode.Models
 {
     public abstract class Car
     {

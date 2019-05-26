@@ -1,4 +1,4 @@
-namespace StrategyMode
+namespace StrategyMode.Interfaces
 {
     public interface ICommunication
     {

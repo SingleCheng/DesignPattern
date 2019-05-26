@@ -1,8 +1,8 @@
 using System;
 
-namespace ObserverMode
+namespace ObserverMode.Implements
 {
-    public class Account : IObserver<CreditCard>
+    public class Account : Interfaces.IObserver<CreditCard>
     {
         private float _accountAmount;
 

@@ -1,12 +1,10 @@
 using System;
 
-namespace SingletonMode
+namespace SingletonMode.Utilities
 {
     public class SimpleSingleton
     {
         private static SimpleSingleton _instance;
-
-        private static readonly object _padlock = new object();
 
         private SimpleSingleton()
         {

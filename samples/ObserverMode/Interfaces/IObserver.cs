@@ -1,6 +1,4 @@
-using System;
-
-namespace ObserverMode
+namespace ObserverMode.Interfaces
 {
     public interface IObserver<T>
     {

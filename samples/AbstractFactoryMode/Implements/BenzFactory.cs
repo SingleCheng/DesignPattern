@@ -1,5 +1,5 @@
 using System;
-using AbstractFactoryMode.Abstract;
+using AbstractFactoryMode.Models;
 
 namespace AbstractFactoryMode.Implements
 {

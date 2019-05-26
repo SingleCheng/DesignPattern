@@ -1,5 +1,5 @@
 ﻿using System;
-using DecoratorMode.Models;
+using DecoratorMode.Utilities;
 
 namespace DecoratorMode
 {

@@ -1,6 +1,6 @@
 using System;
 
-namespace DecoratorMode.Models
+namespace DecoratorMode.Utilities
 {
     public class Car
     {

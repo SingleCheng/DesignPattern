@@ -1,24 +1,25 @@
 using System;
 using BridgeMode.Interfaces;
 
-namespace BridgeMode.Model
+namespace BridgeMode.Models
 {
-    public class Limousine : Car
+    public class Bus : Car
     {
-        public Limousine(IEngine engine) : base(engine)
+        public Bus(IEngine engine)
+            : base(engine)
         {
         }
 
         public override void Start()
         {
             base.Start();
-            Console.WriteLine("Limousine Start");
+            Console.WriteLine("Bus Start");
         }
 
         public override void Stop()
         {
             base.Stop();
-            Console.WriteLine("Limousine Stop");
+            Console.WriteLine("Bus Stop");
         }
     }
 }

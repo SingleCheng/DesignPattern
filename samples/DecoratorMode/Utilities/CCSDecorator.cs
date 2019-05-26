@@ -1,12 +1,12 @@
 using System;
 
-namespace DecoratorMode.Models
+namespace DecoratorMode.Utilities
 {
-    public class EspDecorator : Car
+    public class CcsDecorator : Car
     {
         private readonly Car _car;
 
-        public EspDecorator(Car car)
+        public CcsDecorator(Car car)
         {
             _car = car;
         }
@@ -14,7 +14,7 @@ namespace DecoratorMode.Models
         public override void Description()
         {
             _car.Description();
-            Console.WriteLine("Add ESP");
+            Console.WriteLine("Add CCS");
         }
     }
 }

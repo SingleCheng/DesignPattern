@@ -1,6 +1,6 @@
 ﻿using System;
-using AbstractFactoryMode.Abstract;
 using AbstractFactoryMode.Implements;
+using AbstractFactoryMode.Models;
 
 namespace AbstractFactoryMode
 {
@@ -15,7 +15,7 @@ namespace AbstractFactoryMode
             carFactory.CreateWheels();
 
             Console.WriteLine("Change Factory To BMWFactory");
-            carFactory = new BMWFactory();
+            carFactory = new BmwFactory();
             carFactory.CreateWindows();
             carFactory.CreateWheels();
         }

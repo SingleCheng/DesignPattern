@@ -1,4 +1,5 @@
 ﻿using System;
+using AdapterMode.Models;
 
 namespace AdapterMode
 {

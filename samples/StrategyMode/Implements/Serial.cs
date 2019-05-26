@@ -1,4 +1,5 @@
 using System;
+using StrategyMode.Interfaces;
 
 namespace StrategyMode.Implements
 {

@@ -1,4 +1,4 @@
-namespace TemplateMethodMode
+namespace TemplateMethodMode.Models
 {
     public abstract class Employee
     {

@@ -1,9 +1,9 @@
 using System;
-using AbstractFactoryMode.Abstract;
+using AbstractFactoryMode.Models;
 
 namespace AbstractFactoryMode.Implements
 {
-    public class BMWFactory : CarFactory
+    public class BmwFactory : CarFactory
     {
         public override void CreateWindows()
         {

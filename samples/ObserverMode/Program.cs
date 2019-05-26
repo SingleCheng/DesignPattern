@@ -1,4 +1,5 @@
 ﻿using System;
+using ObserverMode.Implements;
 
 namespace ObserverMode
 {

@@ -1,6 +1,6 @@
 using System;
 
-namespace TemplateMethodMode
+namespace TemplateMethodMode.Models
 {
     public class Manager : Employee
     {

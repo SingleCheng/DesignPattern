@@ -1,6 +1,6 @@
 ﻿using System;
 using BridgeMode.Implements;
-using BridgeMode.Model;
+using BridgeMode.Models;
 
 namespace BridgeMode
 {

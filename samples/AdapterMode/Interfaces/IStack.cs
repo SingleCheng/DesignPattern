@@ -1,4 +1,4 @@
-namespace AdapterMode
+namespace AdapterMode.Interfaces
 {
     public interface IStack<T>
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace SingletonMode
+namespace SingletonMode.Utilities
 {
     public class ThreadSafeSingleton
     {
