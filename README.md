@@ -5,7 +5,7 @@
  2. [Adapter Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/FacadeMode)
  3. [Strategy Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/StrategyMode)
  4. [Bridge Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/BridgeMode)
- 5. Abstract Factory Mode
+ 5. [Abstract Factory Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/AbstractFactoryMode)
  6. Decorator Mode
  7. Observer Mode
  8. Template Method Mode
