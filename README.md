@@ -3,7 +3,7 @@
 ## Catalog
  1. [Facade Mode](https://github.com/SingleCheng/DesignPattern/tree/feature-facade-mode/samples/FacadeMode)
  2. [Adapter Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/FacadeMode)
- 3. Strategy Mode
+ 3. [Strategy Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/StrategyMode)
  4. Bridge Mode
  5. Abstract Factory Mode
  6. Decorator Mode
