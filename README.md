@@ -1,7 +1,7 @@
 # Design Pattern
 
 ## Catalog
- 1. Facade Mode
+ 1. [Facade Mode](https://github.com/SingleCheng/DesignPattern/tree/feature-facade-mode/samples/FacadeMode)
  2. Adapter Mode
  3. Strategy Mode
  4. Bridge Mode
