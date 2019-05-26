@@ -2,7 +2,7 @@
 
 ## Catalog
  1. [Facade Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/FacadeMode)
- 2. [Adapter Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/FacadeMode)
+ 2. [Adapter Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/AdapterMode)
  3. [Strategy Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/StrategyMode)
  4. [Bridge Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/BridgeMode)
  5. [Abstract Factory Mode](https://github.com/SingleCheng/DesignPattern/tree/master/samples/AbstractFactoryMode)
